@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WikiViewer/static/css/main.39909302.chunk.css",
+    "main.js": "/WikiViewer/static/js/main.21e3054a.chunk.js",
+    "main.js.map": "/WikiViewer/static/js/main.21e3054a.chunk.js.map",
+    "runtime-main.js": "/WikiViewer/static/js/runtime-main.3c2d3caa.js",
+    "runtime-main.js.map": "/WikiViewer/static/js/runtime-main.3c2d3caa.js.map",
+    "static/js/2.46aac141.chunk.js": "/WikiViewer/static/js/2.46aac141.chunk.js",
+    "static/js/2.46aac141.chunk.js.map": "/WikiViewer/static/js/2.46aac141.chunk.js.map",
+    "index.html": "/WikiViewer/index.html",
+    "precache-manifest.35ae798bdc00144c88e9b3995b28d454.js": "/WikiViewer/precache-manifest.35ae798bdc00144c88e9b3995b28d454.js",
+    "service-worker.js": "/WikiViewer/service-worker.js",
+    "static/css/main.39909302.chunk.css.map": "/WikiViewer/static/css/main.39909302.chunk.css.map",
+    "static/js/2.46aac141.chunk.js.LICENSE.txt": "/WikiViewer/static/js/2.46aac141.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c2d3caa.js",
+    "static/js/2.46aac141.chunk.js",
+    "static/css/main.39909302.chunk.css",
+    "static/js/main.21e3054a.chunk.js"
+  ]
+}
